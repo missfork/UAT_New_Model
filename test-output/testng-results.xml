@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-18T13:00:44 IST" name="Default suite" finished-at="2022-03-18T13:01:07 IST" duration-ms="22983">
+    <groups>
+    </groups>
+    <test started-at="2022-03-18T13:00:44 IST" name="Default test" finished-at="2022-03-18T13:01:07 IST" duration-ms="22983">
+      <class name="org.Base.Tests">
+        <test-method is-config="true" signature="htmlReport()[pri:0, instance:org.Base.Tests@639c2c1d]" started-at="2022-03-18T13:00:43 IST" name="htmlReport" finished-at="2022-03-18T13:00:44 IST" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- htmlReport -->
+        <test-method is-config="true" signature="startApp()[pri:0, instance:org.Base.Tests@639c2c1d]" started-at="2022-03-18T13:00:44 IST" name="startApp" finished-at="2022-03-18T13:01:03 IST" duration-ms="18858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method signature="testMethod()[pri:0, instance:org.Base.Tests@639c2c1d]" started-at="2022-03-18T13:01:03 IST" name="testMethod" finished-at="2022-03-18T13:01:06 IST" duration-ms="3664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.Base.Tests@639c2c1d]" started-at="2022-03-18T13:01:06 IST" name="tearDown" finished-at="2022-03-18T13:01:07 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterHtmlReport()[pri:0, instance:org.Base.Tests@639c2c1d]" started-at="2022-03-18T13:01:07 IST" name="afterHtmlReport" finished-at="2022-03-18T13:01:07 IST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterHtmlReport -->
+      </class> <!-- org.Base.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
